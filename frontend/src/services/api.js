@@ -1,6 +1,7 @@
 import axios from 'axios';
 
-const API_BASE_URL = process.env.REACT_APP_API_URL || 'https://louder-world-backend-rb23.onrender.com/';
+// Hardcoded backend URL for immediate testing on Render
+const API_BASE_URL = 'https://louder-world-backend-rb23.onrender.com';
 
 const api = axios.create({
   baseURL: API_BASE_URL,
