@@ -3,11 +3,11 @@ services:
     name: louder-world-backend
     env: node
     plan: free
-    buildCommand: "npm install"
-    startCommand: "npm start"
+    buildCommand: "cd backend && npm install"
+    startCommand: "cd backend && npm start"
     repo: "<REPO_URL>"
     branch: "main"
-    rootDir: "backend"
+    rootDir: "."
     envVars:
       - key: MONGODB_URI
         value: ""
@@ -34,7 +34,7 @@ services:
     name: louder-world-frontend
     env: static
     plan: free
-    buildCommand: "npm --prefix frontend install && npm --prefix frontend run build"
+    buildCommand: "cd frontend && npm install && npm run build"
     publishPath: "frontend/build"
     repo: "<REPO_URL>"
     branch: "main"
