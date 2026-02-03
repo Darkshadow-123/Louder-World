@@ -1,0 +1,909 @@
+﻿{
+    "success":  true,
+    "count":  20,
+    "total":  144,
+    "page":  1,
+    "pages":  8,
+    "events":  [
+                   {
+                       "_id":  "6980fb2fda5e40efa9fc8116",
+                       "title":  "Sydney Opera House",
+                       "description":  "",
+                       "dateTime":  null,
+                       "endDate":  null,
+                       "venue":  {
+                                     "name":  "",
+                                     "address":  "",
+                                     "city":  "Sydney",
+                                     "coordinates":  null
+                                 },
+                       "category":  [
+
+                                    ],
+                       "tags":  [
+
+                                ],
+                       "imageUrl":  "https://media.timeout.com/images/103085276/750/562/image.jpg",
+                       "imageUrls":  [
+
+                                     ],
+                       "source":  {
+                                      "name":  "Time Out Sydney",
+                                      "url":  "https://www.timeout.com",
+                                      "eventUrl":  "https://www.timeout.com/sydney/theatre/sydney-opera-house"
+                                  },
+                       "status":  "updated",
+                       "lastScrapedAt":  "2026-02-03T08:08:53.909Z",
+                       "lastUpdatedAt":  "2026-02-03T08:08:53.909Z",
+                       "scrapedFromSourceAt":  "2026-02-03T08:08:52.677Z",
+                       "price":  null,
+                       "availability":  "unknown",
+                       "organizer":  null,
+                       "ageRestriction":  null,
+                       "originalData":  {
+                                            "dateTimeText":  "",
+                                            "venueText":  "",
+                                            "categoryText":  ""
+                                        },
+                       "createdAt":  "2026-02-02T19:29:51.556Z",
+                       "updatedAt":  "2026-02-03T08:08:53.912Z",
+                       "__v":  0,
+                       "city":  "Sydney"
+                   },
+                   {
+                       "_id":  "6980fb2fda5e40efa9fc8102",
+                       "title":  "How to get cheap tix",
+                       "description":  "",
+                       "dateTime":  null,
+                       "endDate":  null,
+                       "venue":  {
+                                     "name":  "",
+                                     "address":  "",
+                                     "city":  "Sydney",
+                                     "coordinates":  null
+                                 },
+                       "category":  [
+
+                                    ],
+                       "tags":  [
+
+                                ],
+                       "imageUrl":  "https://media.timeout.com/images/103043309/750/562/image.jpg",
+                       "imageUrls":  [
+
+                                     ],
+                       "source":  {
+                                      "name":  "Time Out Sydney",
+                                      "url":  "https://www.timeout.com",
+                                      "eventUrl":  "https://www.timeout.com/sydney/theatre/cheap-theatre-tickets-in-sydney"
+                                  },
+                       "status":  "updated",
+                       "lastScrapedAt":  "2026-02-03T08:08:53.089Z",
+                       "lastUpdatedAt":  "2026-02-03T08:08:53.089Z",
+                       "scrapedFromSourceAt":  "2026-02-03T08:08:52.655Z",
+                       "price":  null,
+                       "availability":  "unknown",
+                       "organizer":  null,
+                       "ageRestriction":  null,
+                       "originalData":  {
+                                            "dateTimeText":  "",
+                                            "venueText":  "",
+                                            "categoryText":  ""
+                                        },
+                       "createdAt":  "2026-02-02T19:29:51.524Z",
+                       "updatedAt":  "2026-02-03T08:08:53.091Z",
+                       "__v":  0,
+                       "city":  "Sydney"
+                   },
+                   {
+                       "_id":  "6980fb2fda5e40efa9fc8104",
+                       "title":  "An exciting new theatre space has just opened in Sydney\u0027s Inner West",
+                       "description":  "",
+                       "dateTime":  null,
+                       "endDate":  null,
+                       "venue":  {
+                                     "name":  "",
+                                     "address":  "",
+                                     "city":  "Sydney",
+                                     "coordinates":  null
+                                 },
+                       "category":  [
+
+                                    ],
+                       "tags":  [
+
+                                ],
+                       "imageUrl":  "https://media.timeout.com/images/106304364/750/422/image.jpg",
+                       "imageUrls":  [
+
+                                     ],
+                       "source":  {
+                                      "name":  "Time Out Sydney",
+                                      "url":  "https://www.timeout.com",
+                                      "eventUrl":  "https://www.timeout.com/sydney/news/an-exciting-new-theatre-space-has-just-opened-in-sydneys-inner-west-080825"
+                                  },
+                       "status":  "updated",
+                       "lastScrapedAt":  "2026-02-03T08:08:53.086Z",
+                       "lastUpdatedAt":  "2026-02-03T08:08:53.086Z",
+                       "scrapedFromSourceAt":  "2026-02-03T08:08:52.664Z",
+                       "price":  null,
+                       "availability":  "unknown",
+                       "organizer":  null,
+                       "ageRestriction":  null,
+                       "originalData":  {
+                                            "dateTimeText":  "",
+                                            "venueText":  "",
+                                            "categoryText":  ""
+                                        },
+                       "createdAt":  "2026-02-02T19:29:51.527Z",
+                       "updatedAt":  "2026-02-03T08:08:53.087Z",
+                       "__v":  0,
+                       "city":  "Sydney"
+                   },
+                   {
+                       "_id":  "6980fb2fda5e40efa9fc8114",
+                       "title":  "All aboard! Titanique has finally called a closing date for record-breaking Sydney run",
+                       "description":  "",
+                       "dateTime":  null,
+                       "endDate":  null,
+                       "venue":  {
+                                     "name":  "",
+                                     "address":  "",
+                                     "city":  "Sydney",
+                                     "coordinates":  null
+                                 },
+                       "category":  [
+
+                                    ],
+                       "tags":  [
+
+                                ],
+                       "imageUrl":  "https://media.timeout.com/images/106271053/750/422/image.jpg",
+                       "imageUrls":  [
+
+                                     ],
+                       "source":  {
+                                      "name":  "Time Out Sydney",
+                                      "url":  "https://www.timeout.com",
+                                      "eventUrl":  "https://www.timeout.com/sydney/news/all-aboard-titanique-has-finally-called-a-closing-date-for-record-breaking-sydney-run-050525"
+                                  },
+                       "status":  "updated",
+                       "lastScrapedAt":  "2026-02-03T08:08:53.083Z",
+                       "lastUpdatedAt":  "2026-02-03T08:08:53.083Z",
+                       "scrapedFromSourceAt":  "2026-02-03T08:08:52.675Z",
+                       "price":  null,
+                       "availability":  "unknown",
+                       "organizer":  null,
+                       "ageRestriction":  null,
+                       "originalData":  {
+                                            "dateTimeText":  "",
+                                            "venueText":  "",
+                                            "categoryText":  ""
+                                        },
+                       "createdAt":  "2026-02-02T19:29:51.553Z",
+                       "updatedAt":  "2026-02-03T08:08:53.084Z",
+                       "__v":  0,
+                       "city":  "Sydney"
+                   },
+                   {
+                       "_id":  "6980fb2fda5e40efa9fc8110",
+                       "title":  "Virginia Gay is bringing back Calamity Jane for an exclusive run at Sydney Opera House",
+                       "description":  "",
+                       "dateTime":  null,
+                       "endDate":  null,
+                       "venue":  {
+                                     "name":  "",
+                                     "address":  "",
+                                     "city":  "Sydney",
+                                     "coordinates":  null
+                                 },
+                       "category":  [
+
+                                    ],
+                       "tags":  [
+
+                                ],
+                       "imageUrl":  "https://media.timeout.com/images/106273770/750/422/image.jpg",
+                       "imageUrls":  [
+
+                                     ],
+                       "source":  {
+                                      "name":  "Time Out Sydney",
+                                      "url":  "https://www.timeout.com",
+                                      "eventUrl":  "https://www.timeout.com/sydney/news/virginia-gay-is-bringing-back-calamity-jane-for-an-exclusive-run-at-sydney-opera-house-051225"
+                                  },
+                       "status":  "updated",
+                       "lastScrapedAt":  "2026-02-03T08:08:53.080Z",
+                       "lastUpdatedAt":  "2026-02-03T08:08:53.080Z",
+                       "scrapedFromSourceAt":  "2026-02-03T08:08:52.669Z",
+                       "price":  null,
+                       "availability":  "unknown",
+                       "organizer":  null,
+                       "ageRestriction":  null,
+                       "originalData":  {
+                                            "dateTimeText":  "",
+                                            "venueText":  "",
+                                            "categoryText":  ""
+                                        },
+                       "createdAt":  "2026-02-02T19:29:51.548Z",
+                       "updatedAt":  "2026-02-03T08:08:53.081Z",
+                       "__v":  0,
+                       "city":  "Sydney"
+                   },
+                   {
+                       "_id":  "6980fb2fda5e40efa9fc810c",
+                       "title":  "27 things every Sydney theatre lover knows",
+                       "description":  "",
+                       "dateTime":  null,
+                       "endDate":  null,
+                       "venue":  {
+                                     "name":  "",
+                                     "address":  "",
+                                     "city":  "Sydney",
+                                     "coordinates":  null
+                                 },
+                       "category":  [
+
+                                    ],
+                       "tags":  [
+
+                                ],
+                       "imageUrl":  "https://media.timeout.com/images/105306368/750/562/image.jpg",
+                       "imageUrls":  [
+
+                                     ],
+                       "source":  {
+                                      "name":  "Time Out Sydney",
+                                      "url":  "https://www.timeout.com",
+                                      "eventUrl":  "https://www.timeout.com/sydney/news/27-things-every-sydney-theatre-lover-knows-101718"
+                                  },
+                       "status":  "updated",
+                       "lastScrapedAt":  "2026-02-03T08:08:53.078Z",
+                       "lastUpdatedAt":  "2026-02-03T08:08:53.078Z",
+                       "scrapedFromSourceAt":  "2026-02-03T08:08:52.660Z",
+                       "price":  null,
+                       "availability":  "unknown",
+                       "organizer":  null,
+                       "ageRestriction":  null,
+                       "originalData":  {
+                                            "dateTimeText":  "",
+                                            "venueText":  "",
+                                            "categoryText":  ""
+                                        },
+                       "createdAt":  "2026-02-02T19:29:51.542Z",
+                       "updatedAt":  "2026-02-03T08:08:53.079Z",
+                       "__v":  0,
+                       "city":  "Sydney"
+                   },
+                   {
+                       "_id":  "6980fb2fda5e40efa9fc810a",
+                       "title":  "Belvoir St Theatre",
+                       "description":  "",
+                       "dateTime":  null,
+                       "endDate":  null,
+                       "venue":  {
+                                     "name":  "",
+                                     "address":  "",
+                                     "city":  "Sydney",
+                                     "coordinates":  null
+                                 },
+                       "category":  [
+
+                                    ],
+                       "tags":  [
+
+                                ],
+                       "imageUrl":  "https://media.timeout.com/images/103085265/750/562/image.jpg",
+                       "imageUrls":  [
+
+                                     ],
+                       "source":  {
+                                      "name":  "Time Out Sydney",
+                                      "url":  "https://www.timeout.com",
+                                      "eventUrl":  "https://www.timeout.com/sydney/theatre/belvoir-st-theatre"
+                                  },
+                       "status":  "updated",
+                       "lastScrapedAt":  "2026-02-03T08:08:53.074Z",
+                       "lastUpdatedAt":  "2026-02-03T08:08:53.074Z",
+                       "scrapedFromSourceAt":  "2026-02-03T08:08:52.680Z",
+                       "price":  null,
+                       "availability":  "unknown",
+                       "organizer":  null,
+                       "ageRestriction":  null,
+                       "originalData":  {
+                                            "dateTimeText":  "",
+                                            "venueText":  "",
+                                            "categoryText":  ""
+                                        },
+                       "createdAt":  "2026-02-02T19:29:51.538Z",
+                       "updatedAt":  "2026-02-03T08:08:53.076Z",
+                       "__v":  0,
+                       "city":  "Sydney"
+                   },
+                   {
+                       "_id":  "6980fb2fda5e40efa9fc8108",
+                       "title":  "Where to sit in Sydney’s theatres",
+                       "description":  "",
+                       "dateTime":  null,
+                       "endDate":  null,
+                       "venue":  {
+                                     "name":  "",
+                                     "address":  "",
+                                     "city":  "Sydney",
+                                     "coordinates":  null
+                                 },
+                       "category":  [
+
+                                    ],
+                       "tags":  [
+
+                                ],
+                       "imageUrl":  "https://media.timeout.com/images/105464011/750/562/image.jpg",
+                       "imageUrls":  [
+
+                                     ],
+                       "source":  {
+                                      "name":  "Time Out Sydney",
+                                      "url":  "https://www.timeout.com",
+                                      "eventUrl":  "https://www.timeout.com/sydney/theatre/where-to-sit-in-sydneys-theatres"
+                                  },
+                       "status":  "updated",
+                       "lastScrapedAt":  "2026-02-03T08:08:53.072Z",
+                       "lastUpdatedAt":  "2026-02-03T08:08:53.072Z",
+                       "scrapedFromSourceAt":  "2026-02-03T08:08:52.656Z",
+                       "price":  null,
+                       "availability":  "unknown",
+                       "organizer":  null,
+                       "ageRestriction":  null,
+                       "originalData":  {
+                                            "dateTimeText":  "",
+                                            "venueText":  "",
+                                            "categoryText":  ""
+                                        },
+                       "createdAt":  "2026-02-02T19:29:51.535Z",
+                       "updatedAt":  "2026-02-03T08:08:53.072Z",
+                       "__v":  0,
+                       "city":  "Sydney"
+                   },
+                   {
+                       "_id":  "6980fb2fda5e40efa9fc80fc",
+                       "title":  "Oh, pretty woman! Broadway’s smash-hit ‘Pretty Woman: The Musical’ is coming to Sydney in 2025 – starring Samantha Jade",
+                       "description":  "",
+                       "dateTime":  null,
+                       "endDate":  null,
+                       "venue":  {
+                                     "name":  "",
+                                     "address":  "",
+                                     "city":  "Sydney",
+                                     "coordinates":  null
+                                 },
+                       "category":  [
+
+                                    ],
+                       "tags":  [
+
+                                ],
+                       "imageUrl":  "https://media.timeout.com/images/106242886/750/422/image.jpg",
+                       "imageUrls":  [
+
+                                     ],
+                       "source":  {
+                                      "name":  "Time Out Sydney",
+                                      "url":  "https://www.timeout.com",
+                                      "eventUrl":  "https://www.timeout.com/sydney/news/oh-pretty-woman-broadways-smash-hit-pretty-woman-the-musical-is-coming-to-sydney-in-2025-starring-samantha-jade-070125"
+                                  },
+                       "status":  "updated",
+                       "lastScrapedAt":  "2026-02-03T08:08:53.069Z",
+                       "lastUpdatedAt":  "2026-02-03T08:08:53.069Z",
+                       "scrapedFromSourceAt":  "2026-02-03T08:08:52.666Z",
+                       "price":  null,
+                       "availability":  "unknown",
+                       "organizer":  null,
+                       "ageRestriction":  null,
+                       "originalData":  {
+                                            "dateTimeText":  "",
+                                            "venueText":  "",
+                                            "categoryText":  ""
+                                        },
+                       "createdAt":  "2026-02-02T19:29:51.516Z",
+                       "updatedAt":  "2026-02-03T08:08:53.070Z",
+                       "__v":  0,
+                       "city":  "Sydney"
+                   },
+                   {
+                       "_id":  "6980fb2fda5e40efa9fc80fe",
+                       "title":  "Cynthia Erivo to star in West End premiere of Sydney Theatre Company’s DRACULA",
+                       "description":  "",
+                       "dateTime":  null,
+                       "endDate":  null,
+                       "venue":  {
+                                     "name":  "",
+                                     "address":  "",
+                                     "city":  "Sydney",
+                                     "coordinates":  null
+                                 },
+                       "category":  [
+
+                                    ],
+                       "tags":  [
+
+                                ],
+                       "imageUrl":  "https://media.timeout.com/images/106274060/750/422/image.jpg",
+                       "imageUrls":  [
+
+                                     ],
+                       "source":  {
+                                      "name":  "Time Out Sydney",
+                                      "url":  "https://www.timeout.com",
+                                      "eventUrl":  "https://www.timeout.com/sydney/news/cynthia-erivo-to-star-in-west-end-premiere-of-sydney-theatre-companys-dracula-051325"
+                                  },
+                       "status":  "updated",
+                       "lastScrapedAt":  "2026-02-03T08:08:52.821Z",
+                       "lastUpdatedAt":  "2026-02-03T08:08:52.821Z",
+                       "scrapedFromSourceAt":  "2026-02-03T08:08:52.667Z",
+                       "price":  null,
+                       "availability":  "unknown",
+                       "organizer":  null,
+                       "ageRestriction":  null,
+                       "originalData":  {
+                                            "dateTimeText":  "",
+                                            "venueText":  "",
+                                            "categoryText":  ""
+                                        },
+                       "createdAt":  "2026-02-02T19:29:51.519Z",
+                       "updatedAt":  "2026-02-03T08:08:52.822Z",
+                       "__v":  0,
+                       "city":  "Sydney"
+                   },
+                   {
+                       "_id":  "6980fb2fda5e40efa9fc8118",
+                       "title":  "Carriageworks",
+                       "description":  "",
+                       "dateTime":  null,
+                       "endDate":  null,
+                       "venue":  {
+                                     "name":  "",
+                                     "address":  "",
+                                     "city":  "Sydney",
+                                     "coordinates":  null
+                                 },
+                       "category":  [
+
+                                    ],
+                       "tags":  [
+
+                                ],
+                       "imageUrl":  "https://media.timeout.com/images/103085241/750/562/image.jpg",
+                       "imageUrls":  [
+
+                                     ],
+                       "source":  {
+                                      "name":  "Time Out Sydney",
+                                      "url":  "https://www.timeout.com",
+                                      "eventUrl":  "https://www.timeout.com/sydney/art/carriageworks"
+                                  },
+                       "status":  "updated",
+                       "lastScrapedAt":  "2026-02-03T08:08:52.819Z",
+                       "lastUpdatedAt":  "2026-02-03T08:08:52.819Z",
+                       "scrapedFromSourceAt":  "2026-02-03T08:08:52.682Z",
+                       "price":  null,
+                       "availability":  "unknown",
+                       "organizer":  null,
+                       "ageRestriction":  null,
+                       "originalData":  {
+                                            "dateTimeText":  "",
+                                            "venueText":  "",
+                                            "categoryText":  ""
+                                        },
+                       "createdAt":  "2026-02-02T19:29:51.559Z",
+                       "updatedAt":  "2026-02-03T08:08:52.820Z",
+                       "__v":  0,
+                       "city":  "Sydney"
+                   },
+                   {
+                       "_id":  "6980fb2fda5e40efa9fc8106",
+                       "title":  "Riverside Theatres",
+                       "description":  "",
+                       "dateTime":  null,
+                       "endDate":  null,
+                       "venue":  {
+                                     "name":  "",
+                                     "address":  "",
+                                     "city":  "Sydney",
+                                     "coordinates":  null
+                                 },
+                       "category":  [
+
+                                    ],
+                       "tags":  [
+
+                                ],
+                       "imageUrl":  "https://media.timeout.com/images/103166763/750/562/image.jpg",
+                       "imageUrls":  [
+
+                                     ],
+                       "source":  {
+                                      "name":  "Time Out Sydney",
+                                      "url":  "https://www.timeout.com",
+                                      "eventUrl":  "https://www.timeout.com/sydney/theatre/riverside-theatres"
+                                  },
+                       "status":  "updated",
+                       "lastScrapedAt":  "2026-02-03T08:08:52.817Z",
+                       "lastUpdatedAt":  "2026-02-03T08:08:52.817Z",
+                       "scrapedFromSourceAt":  "2026-02-03T08:08:52.681Z",
+                       "price":  null,
+                       "availability":  "unknown",
+                       "organizer":  null,
+                       "ageRestriction":  null,
+                       "originalData":  {
+                                            "dateTimeText":  "",
+                                            "venueText":  "",
+                                            "categoryText":  ""
+                                        },
+                       "createdAt":  "2026-02-02T19:29:51.531Z",
+                       "updatedAt":  "2026-02-03T08:08:52.817Z",
+                       "__v":  0,
+                       "city":  "Sydney"
+                   },
+                   {
+                       "_id":  "6980fb2fda5e40efa9fc8100",
+                       "title":  "Broadway hit musical \u0027Waitress\u0027 is making its Sydney debut in 2026",
+                       "description":  "",
+                       "dateTime":  null,
+                       "endDate":  null,
+                       "venue":  {
+                                     "name":  "",
+                                     "address":  "",
+                                     "city":  "Sydney",
+                                     "coordinates":  null
+                                 },
+                       "category":  [
+
+                                    ],
+                       "tags":  [
+
+                                ],
+                       "imageUrl":  "https://media.timeout.com/images/106328107/750/422/image.jpg",
+                       "imageUrls":  [
+
+                                     ],
+                       "source":  {
+                                      "name":  "Time Out Sydney",
+                                      "url":  "https://www.timeout.com",
+                                      "eventUrl":  "https://www.timeout.com/sydney/news/broadway-hit-musical-waitress-is-making-its-sydney-debut-in-2026-101525"
+                                  },
+                       "status":  "updated",
+                       "lastScrapedAt":  "2026-02-03T08:08:52.814Z",
+                       "lastUpdatedAt":  "2026-02-03T08:08:52.814Z",
+                       "scrapedFromSourceAt":  "2026-02-03T08:08:52.663Z",
+                       "price":  null,
+                       "availability":  "unknown",
+                       "organizer":  null,
+                       "ageRestriction":  null,
+                       "originalData":  {
+                                            "dateTimeText":  "",
+                                            "venueText":  "",
+                                            "categoryText":  ""
+                                        },
+                       "createdAt":  "2026-02-02T19:29:51.521Z",
+                       "updatedAt":  "2026-02-03T08:08:52.815Z",
+                       "__v":  0,
+                       "city":  "Sydney"
+                   },
+                   {
+                       "_id":  "6980fb2fda5e40efa9fc811a",
+                       "title":  "Sydney Theatre Company",
+                       "description":  "",
+                       "dateTime":  null,
+                       "endDate":  null,
+                       "venue":  {
+                                     "name":  "",
+                                     "address":  "",
+                                     "city":  "Sydney",
+                                     "coordinates":  null
+                                 },
+                       "category":  [
+
+                                    ],
+                       "tags":  [
+
+                                ],
+                       "imageUrl":  "https://media.timeout.com/images/103147205/750/562/image.jpg",
+                       "imageUrls":  [
+
+                                     ],
+                       "source":  {
+                                      "name":  "Time Out Sydney",
+                                      "url":  "https://www.timeout.com",
+                                      "eventUrl":  "https://www.timeout.com/sydney/theatre/sydney-theatre-company-season"
+                                  },
+                       "status":  "updated",
+                       "lastScrapedAt":  "2026-02-03T08:08:52.812Z",
+                       "lastUpdatedAt":  "2026-02-03T08:08:52.812Z",
+                       "scrapedFromSourceAt":  "2026-02-03T08:08:52.678Z",
+                       "price":  null,
+                       "availability":  "unknown",
+                       "organizer":  null,
+                       "ageRestriction":  null,
+                       "originalData":  {
+                                            "dateTimeText":  "",
+                                            "venueText":  "",
+                                            "categoryText":  ""
+                                        },
+                       "createdAt":  "2026-02-02T19:29:51.561Z",
+                       "updatedAt":  "2026-02-03T08:08:52.813Z",
+                       "__v":  0,
+                       "city":  "Sydney"
+                   },
+                   {
+                       "_id":  "6980fb2fda5e40efa9fc810e",
+                       "title":  "Cheap hacks for winter culture",
+                       "description":  "",
+                       "dateTime":  null,
+                       "endDate":  null,
+                       "venue":  {
+                                     "name":  "",
+                                     "address":  "",
+                                     "city":  "Sydney",
+                                     "coordinates":  null
+                                 },
+                       "category":  [
+
+                                    ],
+                       "tags":  [
+
+                                ],
+                       "imageUrl":  "https://media.timeout.com/images/105250354/750/562/image.jpg",
+                       "imageUrls":  [
+
+                                     ],
+                       "source":  {
+                                      "name":  "Time Out Sydney",
+                                      "url":  "https://www.timeout.com",
+                                      "eventUrl":  "https://www.timeout.com/sydney/art/cheap-hacks-for-sydneys-winter-culture"
+                                  },
+                       "status":  "updated",
+                       "lastScrapedAt":  "2026-02-03T08:08:52.804Z",
+                       "lastUpdatedAt":  "2026-02-03T08:08:52.804Z",
+                       "scrapedFromSourceAt":  "2026-02-03T08:08:52.659Z",
+                       "price":  null,
+                       "availability":  "unknown",
+                       "organizer":  null,
+                       "ageRestriction":  null,
+                       "originalData":  {
+                                            "dateTimeText":  "",
+                                            "venueText":  "",
+                                            "categoryText":  ""
+                                        },
+                       "createdAt":  "2026-02-02T19:29:51.546Z",
+                       "updatedAt":  "2026-02-03T08:08:52.806Z",
+                       "__v":  0,
+                       "city":  "Sydney"
+                   },
+                   {
+                       "_id":  "6980fb1bda5e40efa9fc80e1",
+                       "title":  "Time Out reveals the best arts and culture in Sydney for 2025",
+                       "description":  "",
+                       "dateTime":  null,
+                       "endDate":  null,
+                       "venue":  {
+                                     "name":  "",
+                                     "address":  "",
+                                     "city":  "Sydney",
+                                     "coordinates":  null
+                                 },
+                       "category":  [
+
+                                    ],
+                       "tags":  [
+
+                                ],
+                       "imageUrl":  "https://media.timeout.com/images/106282367/750/562/image.jpg",
+                       "imageUrls":  [
+
+                                     ],
+                       "source":  {
+                                      "name":  "Time Out Sydney",
+                                      "url":  "https://www.timeout.com",
+                                      "eventUrl":  "https://www.timeout.com/sydney/news/time-out-reveals-the-best-arts-and-culture-in-sydney-for-2025-081125"
+                                  },
+                       "status":  "updated",
+                       "lastScrapedAt":  "2026-02-03T08:08:47.367Z",
+                       "lastUpdatedAt":  "2026-02-03T08:08:47.367Z",
+                       "scrapedFromSourceAt":  "2026-02-03T08:08:47.305Z",
+                       "price":  null,
+                       "availability":  "unknown",
+                       "organizer":  null,
+                       "ageRestriction":  null,
+                       "originalData":  {
+                                            "dateTimeText":  "",
+                                            "venueText":  "",
+                                            "categoryText":  ""
+                                        },
+                       "createdAt":  "2026-02-02T19:29:31.071Z",
+                       "updatedAt":  "2026-02-03T08:08:47.368Z",
+                       "__v":  0,
+                       "city":  "Sydney"
+                   },
+                   {
+                       "_id":  "6980fb1bda5e40efa9fc80ea",
+                       "title":  "NSW\u0027s largest gallery (outside Sydney) will reopen in 2026 with $145 million worth of art",
+                       "description":  "",
+                       "dateTime":  null,
+                       "endDate":  null,
+                       "venue":  {
+                                     "name":  "",
+                                     "address":  "",
+                                     "city":  "Sydney",
+                                     "coordinates":  null
+                                 },
+                       "category":  [
+
+                                    ],
+                       "tags":  [
+
+                                ],
+                       "imageUrl":  "https://media.timeout.com/images/106324746/750/562/image.jpg",
+                       "imageUrls":  [
+
+                                     ],
+                       "source":  {
+                                      "name":  "Time Out Sydney",
+                                      "url":  "https://www.timeout.com",
+                                      "eventUrl":  "https://www.timeout.com/sydney/news/nsws-largest-gallery-outside-sydney-will-reopen-in-2026-with-145-million-worth-of-art-093025"
+                                  },
+                       "status":  "updated",
+                       "lastScrapedAt":  "2026-02-03T08:08:47.363Z",
+                       "lastUpdatedAt":  "2026-02-03T08:08:47.363Z",
+                       "scrapedFromSourceAt":  "2026-02-03T08:08:47.304Z",
+                       "price":  null,
+                       "availability":  "unknown",
+                       "organizer":  null,
+                       "ageRestriction":  null,
+                       "originalData":  {
+                                            "dateTimeText":  "",
+                                            "venueText":  "",
+                                            "categoryText":  ""
+                                        },
+                       "createdAt":  "2026-02-02T19:29:31.089Z",
+                       "updatedAt":  "2026-02-03T08:08:47.364Z",
+                       "__v":  0,
+                       "city":  "Sydney"
+                   },
+                   {
+                       "_id":  "6980fb1bda5e40efa9fc80e6",
+                       "title":  "Where to see Aboriginal art",
+                       "description":  "",
+                       "dateTime":  null,
+                       "endDate":  null,
+                       "venue":  {
+                                     "name":  "",
+                                     "address":  "",
+                                     "city":  "Sydney",
+                                     "coordinates":  null
+                                 },
+                       "category":  [
+
+                                    ],
+                       "tags":  [
+
+                                ],
+                       "imageUrl":  "https://media.timeout.com/images/103171784/750/562/image.jpg",
+                       "imageUrls":  [
+
+                                     ],
+                       "source":  {
+                                      "name":  "Time Out Sydney",
+                                      "url":  "https://www.timeout.com",
+                                      "eventUrl":  "https://www.timeout.com/sydney/art/where-to-see-aboriginal-art-in-sydney"
+                                  },
+                       "status":  "updated",
+                       "lastScrapedAt":  "2026-02-03T08:08:47.360Z",
+                       "lastUpdatedAt":  "2026-02-03T08:08:47.360Z",
+                       "scrapedFromSourceAt":  "2026-02-03T08:08:47.298Z",
+                       "price":  null,
+                       "availability":  "unknown",
+                       "organizer":  null,
+                       "ageRestriction":  null,
+                       "originalData":  {
+                                            "dateTimeText":  "",
+                                            "venueText":  "",
+                                            "categoryText":  ""
+                                        },
+                       "createdAt":  "2026-02-02T19:29:31.083Z",
+                       "updatedAt":  "2026-02-03T08:08:47.361Z",
+                       "__v":  0,
+                       "city":  "Sydney"
+                   },
+                   {
+                       "_id":  "6980fb1bda5e40efa9fc80e4",
+                       "title":  "This Sydney art exhibition has ranked among the world\u0027s 20 top attractions for 2026",
+                       "description":  "",
+                       "dateTime":  null,
+                       "endDate":  null,
+                       "venue":  {
+                                     "name":  "",
+                                     "address":  "",
+                                     "city":  "Sydney",
+                                     "coordinates":  null
+                                 },
+                       "category":  [
+
+                                    ],
+                       "tags":  [
+
+                                ],
+                       "imageUrl":  "https://media.timeout.com/images/106356649/750/562/image.jpg",
+                       "imageUrls":  [
+
+                                     ],
+                       "source":  {
+                                      "name":  "Time Out Sydney",
+                                      "url":  "https://www.timeout.com",
+                                      "eventUrl":  "https://www.timeout.com/sydney/news/this-sydney-art-exhibition-has-ranked-among-the-worlds-20-top-attractions-for-2026-122125"
+                                  },
+                       "status":  "updated",
+                       "lastScrapedAt":  "2026-02-03T08:08:47.356Z",
+                       "lastUpdatedAt":  "2026-02-03T08:08:47.356Z",
+                       "scrapedFromSourceAt":  "2026-02-03T08:08:47.301Z",
+                       "price":  null,
+                       "availability":  "unknown",
+                       "organizer":  null,
+                       "ageRestriction":  null,
+                       "originalData":  {
+                                            "dateTimeText":  "",
+                                            "venueText":  "",
+                                            "categoryText":  ""
+                                        },
+                       "createdAt":  "2026-02-02T19:29:31.080Z",
+                       "updatedAt":  "2026-02-03T08:08:47.357Z",
+                       "__v":  0,
+                       "city":  "Sydney"
+                   },
+                   {
+                       "_id":  "6980fb1bda5e40efa9fc80e8",
+                       "title":  "These are the 12 top recommended Sydney arts and culture spaces in 2025",
+                       "description":  "",
+                       "dateTime":  null,
+                       "endDate":  null,
+                       "venue":  {
+                                     "name":  "",
+                                     "address":  "",
+                                     "city":  "Sydney",
+                                     "coordinates":  null
+                                 },
+                       "category":  [
+
+                                    ],
+                       "tags":  [
+
+                                ],
+                       "imageUrl":  "https://media.timeout.com/images/105953704/750/562/image.jpg",
+                       "imageUrls":  [
+
+                                     ],
+                       "source":  {
+                                      "name":  "Time Out Sydney",
+                                      "url":  "https://www.timeout.com",
+                                      "eventUrl":  "https://www.timeout.com/sydney/news/these-are-the-12-top-recommended-sydney-arts-and-culture-spaces-in-2025-110625"
+                                  },
+                       "status":  "updated",
+                       "lastScrapedAt":  "2026-02-03T08:08:47.353Z",
+                       "lastUpdatedAt":  "2026-02-03T08:08:47.353Z",
+                       "scrapedFromSourceAt":  "2026-02-03T08:08:47.303Z",
+                       "price":  null,
+                       "availability":  "unknown",
+                       "organizer":  null,
+                       "ageRestriction":  null,
+                       "originalData":  {
+                                            "dateTimeText":  "",
+                                            "venueText":  "",
+                                            "categoryText":  ""
+                                        },
+                       "createdAt":  "2026-02-02T19:29:31.086Z",
+                       "updatedAt":  "2026-02-03T08:08:47.354Z",
+                       "__v":  0,
+                       "city":  "Sydney"
+                   }
+               ]
+}
