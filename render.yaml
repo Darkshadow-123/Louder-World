@@ -3,12 +3,16 @@ services:
     name: louder-world-backend
     env: node
     plan: free
-    buildCommand: "cd backend && npm install"
+    buildCommand: "cd backend && bash render-build.sh"
     startCommand: "cd backend && npm start"
     repo: "<REPO_URL>"
     branch: "main"
     rootDir: "."
     envVars:
+      - key: PUPPETEER_SKIP_DOWNLOAD
+        value: "true"
+      - key: NODE_ENV
+        value: "production"
       - key: MONGODB_URI
         value: ""
       - key: JWT_SECRET
