@@ -1,0 +1,44 @@
+services:
+  - type: web
+    name: louder-world-backend
+    env: node
+    plan: free
+    buildCommand: "npm install"
+    startCommand: "npm start"
+    repo: "<REPO_URL>"
+    branch: "main"
+    rootDir: "backend"
+    envVars:
+      - key: MONGODB_URI
+        value: ""
+      - key: JWT_SECRET
+        value: ""
+      - key: JWT_EXPIRE
+        value: "7d"
+      - key: SESSION_SECRET
+        value: ""
+      - key: GOOGLE_CLIENT_ID
+        value: ""
+      - key: GOOGLE_CLIENT_SECRET
+        value: ""
+      - key: GOOGLE_CALLBACK_URL
+        value: ""
+      - key: FRONTEND_URL
+        value: ""
+      - key: SCRAPE_INTERVAL_MINUTES
+        value: "60"
+      - key: EVENT_CUTOFF_DAYS
+        value: "30"
+
+  - type: static
+    name: louder-world-frontend
+    env: static
+    plan: free
+    buildCommand: "npm --prefix frontend install && npm --prefix frontend run build"
+    publishPath: "frontend/build"
+    repo: "<REPO_URL>"
+    branch: "main"
+    rootDir: "."
+    envVars:
+      - key: REACT_APP_API_URL
+        value: ""
