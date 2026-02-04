@@ -36,15 +36,17 @@ services:
       - key: EVENT_CUTOFF_DAYS
         value: "30"
 
-  - type: static
+  - type: web
     name: louder-world-frontend
-    env: static
+    env: node
     plan: free
     buildCommand: "cd frontend && npm install && npm run build"
-    publishPath: "frontend/build"
+    startCommand: "cd frontend && node server.js"
     repo: "<REPO_URL>"
     branch: "main"
     rootDir: "."
     envVars:
       - key: REACT_APP_API_URL
         value: ""
+      - key: PORT
+        value: "3000"
