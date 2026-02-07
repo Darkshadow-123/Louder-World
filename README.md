@@ -1,4 +1,4 @@
-# Louder World - Sydney Events Aggregator
+# Sydney Events Aggregator
 
 A full-stack MERN application that automatically scrapes events from multiple sources for Sydney, Australia and provides a beautiful UI for browsing events with Google OAuth authentication and an admin dashboard.
 
